@@ -1,4 +1,4 @@
 # MG-Clothing
-DP-Clothing Redesig
+DP-Clothing Redesign
 
 Credits Dullpear
