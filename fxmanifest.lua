@@ -1,6 +1,6 @@
 fx_version 'bodacious'
 game 'gta5'
-author 'Mr Groot'
+author 'Mr Groot#9862'
 description 'MgClothing'
 
 client_scripts {
